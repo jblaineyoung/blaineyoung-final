@@ -1,4 +1,10 @@
-# ICJ Project Rig
+# Blaine Young's icj final project
+
+By Blaine Young, Intro Coding for Journalists class
+
+This repo is the final project for icj. The final draft is due May 7, 2021.
+
+## ICJ Project Rig
 
 This project rig was developed for the [Intro to Coding for Journalists](https://github.com/utdata/icj-class) class taught by Christian McDonald, Assistant Professor of Practice at the School of Journalism, Moody College of Communication, University of Texas at Austin.
 
