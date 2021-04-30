@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "fileId": "1iwCTvIzjhihzq2SAcilW88iwyvMIX5k03hACGULzBkg",
+      "type": "doc",
+      "name": "blog"
+    },
+    {
+      "fileId": "10rFqpGd5zMLR184yX5ELDBgCJHqP1p1L6PLSaZOMXdc",
+      "type": "sheet",
+      "name": "vinyls"
+    }
+  ],
+  "to_bake": [
+    {
+      "template": "bake-vinyl",
+      "data": "blog",
+      "array": "blogs",
+      "slug": "slug",
+      "path": "vinyl"
+    }
+  ]
+}

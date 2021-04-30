@@ -1,0 +1,34 @@
+// Custom variable overrides
+// See node_modules/bootstrap/scss/_variables.scss
+
+// $body-bg: black;
+// $body-color: white;
+// $link-hover-color: grey;
+// $font-family-sans-serif: "Helvetica Neue";
+
+/* bootstrap */
+// Option A: Include all of Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// Option B: Include parts of Bootstrap
+// See https://getbootstrap.com/docs/4.1/getting-started/theming/#importing
+
+// Required
+// @import "../../node_modules/bootstrap/scss/functions";
+// @import "../../node_modules/bootstrap/scss/variables";
+// @import "../../node_modules/bootstrap/scss/mixins"; 
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Quattrocento&display=swap');
+
+// Import partials
+@import "nav";
+@import "jumbotron";
+@import "scroll";
+
+h3 {
+  font-size: 1.5rem;
+}
+
+p, h2, h3, h4, h5, h6, li {
+  font-family: 'Quattrocento', serif;
+}

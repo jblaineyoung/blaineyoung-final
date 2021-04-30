@@ -1,0 +1,41 @@
+{% extends '_templates/base-collection.njk' %}
+
+{% block page_title %}Full Collection{% endblock %}
+
+{% block page_description %}Full Collection{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>Blaine's Full Collection</h1>
+  <p>I've been collecting for almost six years and have aquired an estimated $1,8200 in vinyl records.</p>
+  <table id="collection" class="display table" style="width:100%">
+        <thead>
+            <tr>
+                <th>Artist</th>
+                <th>Album</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for record in vinyls.vinylCat %}
+            <tr>
+                <td>{{ record.artist }}</td>
+                <td>{{ record.album }}</td>
+                <td>{{ record.type }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+        <tfoot>
+        </tfoot>
+    </table>
+</div>
+<script>
+  $(document).ready(function() {
+      $('#collection').DataTable( {
+          "scrollY": "6500px",
+          "scrollCollapse": true,
+          "paging": false
+      } );
+  } );
+</script>
+{% endblock %}

@@ -1,0 +1,25 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Sources{% endblock %}
+
+{% block page_description %}sources{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>Sources</h1>
+  <p>All images and content are mine except the following:</p>
+  <div class="row">
+    {% for credit in vinyls.sources %}
+      <div class="col-sm-6 col-md-4">
+        <div class="card">
+          <div class="card-body">
+            <img src="../img/{{ credit.img }}" class="img-fluid" alt="{{ credit.img }}">
+            <p class="card-text">From {{ credit.img_from }}</p>
+            <a href="{{ credit.img_link }}" class="card-link" target="_blank">Source</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

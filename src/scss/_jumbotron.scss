@@ -1,0 +1,19 @@
+//insert google font//
+
+// .jumbotron.banner {
+//   background-image: url(../img/vinyl-banner.jpg) no-repeat center;
+//   background-size: cover;
+//   color: white;
+//   padding-top: 12rem
+// }
+
+.jumbotron {
+  background-image: url(../img/vinyl-banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  margin-bottom: 30px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+}

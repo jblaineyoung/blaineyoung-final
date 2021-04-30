@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+  <!-- A Intro to Coding for Journalists class project -->
+  <head>
+    <title>BVC | New Finds</title>
+    <meta name="description" content="New Finds">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="../css/main.css">
+    
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="../index.html">Blaine's Vinyl Collection</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Pages
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          
+            <a class="dropdown-item" href="../vinyl/new-vinyl.html">New Finds</a>
+          
+            <a class="dropdown-item" href="../vinyl/current-listens.html">What I’m Listening to...</a>
+          
+            <a class="dropdown-item" href="../vinyl/favorites.html">Favorites</a>
+          
+            <a class="dropdown-item" href="../vinyl/wishlist.html">Wishlist</a>
+          
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../full-collection.html">Full Collection</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../recommend.html">Recommend an Album</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+    <div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Blaine's Vinyl Collection</h1>
+    <p class="lead">A space to record my records.</p>
+  </div>
+</div>
+
+    
+  <article class="container">
+    <div class="row">
+      <div class="col-sm-4">
+          <img src="../img/5img.jpeg" alt="" class="img-fluid mb-4">
+      </div>
+      <div class="col-sm-8">
+          <h1>New Finds</h1>
+          <p>
+
+  
+    
+<img src="../img/all.JPG" alt="3 SW records" class="img-fluid">
+
+  
+
+  
+    
+<p>I got the original Star Wars soundtrack on vinyl a few years ago, but for Christmas I received The Empire Strikes Back and Return of the Jedi, completing the original trilogy.</p>
+
+  
+
+  
+    
+<br>
+
+  
+
+  
+    
+<h4>Star Wars</h4>
+
+  
+
+  
+    
+<p>Something I like about records are the artist notes that come with it. In the original Star Wars record, there’s a sheet where John Williams explains some of what went into the different themes and songs. For example, the recognizable “Cantina Band” is the only song on the soundtrack that didn’t utilize the London Symphony Orchestra. George Lucas suggested Williams imagine “several creatures in a future century finding some 1930s Benny Goodman swing band music in a time capsule or under a rock someplace — and how they might attempt to interpret it”.</p>
+
+  
+
+  
+    
+<div align="center" class="embed-responsive embed-responsive-16by9">
+  <video class="embed-responsive-item" controls>
+    <source src="../img/4_vid.mp4" type="video/mp4">
+    Your browser does not support the video.
+  </video>
+</div>
+
+  
+
+  
+    
+<br>
+
+  
+
+  
+    
+<h4>The Empire Strikes Back</h4>
+
+  
+
+  
+    
+<p>I think the Empire Strikes Back has some of my favorite pieces. From the well-known “The Imperial March (Darth Vader’s Theme)” to the love theme between Han and Leia and the dramatic piece that underlines the duel between Luke and Vader.</p>
+
+  
+
+  
+    
+<div align="center" class="embed-responsive embed-responsive-16by9">
+  <video class="embed-responsive-item" controls>
+    <source src="../img/5_vid.mp4" type="video/mp4">
+    Your browser does not support the video.
+  </video>
+</div>
+
+  
+
+  
+    
+<br>
+
+  
+
+  
+    
+<h4>Return of the Jedi</h4>
+
+  
+
+  
+    
+<p>I always really liked “The Return of the Jedi” as a kid. The song plays during the dramatic rescue of Han Solo from Jabba the Hutt as Luke acrobats his way across the desert skiffs to the main barge.</p>
+
+  
+
+  
+    
+<div align="center" class="embed-responsive embed-responsive-16by9">
+  <video class="embed-responsive-item" controls>
+    <source src="../img/6_vid.mp4" type="video/mp4">
+    Your browser does not support the video.
+  </video>
+</div>
+
+  
+
+</p>
+      </div>
+    </div>
+  </article>
+
+
+    <div class="container">
+  <p class="center-block text-center">
+  <button type="button" class="btn btn-light mt-5 mb-4" id="scrollToTopBtn">Scroll to Top</button>
+  </p>
+</div>
+
+<script>
+  var scrollToTopBtn = document.getElementById("scrollToTopBtn")
+  var rootElement = document.documentElement
+
+  function scrollToTop() {
+    // Scroll to top logic
+    rootElement.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    })
+  }
+  scrollToTopBtn.addEventListener("click", scrollToTop)
+</script>
+
+    <footer>
+<p id="legal" class="center-block text-center">
+  <small>&copy; <span class="copyright-year"></span>
+  A class project by Blaine Young | <a href="../sources.html">Sources</a>
+</p>
+</footer>
+
+
+    <script src="../js/jquery.js"></script>
+    <script src="../js/popper.js"></script>
+    <script src="../js/bootstrap.js"></script>
+    <script src="../js/scripts.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+  </body>
+</html>

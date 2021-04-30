@@ -1,0 +1,294 @@
+{
+  "blogs": [
+    {
+      "slug": "new-vinyl",
+      "headline": "New Finds",
+      "image": "5img.jpeg",
+      "prev": "Anything new I find, I’ll put here",
+      "post": [
+        {
+          "type": "img",
+          "value": {
+            "filename": "all.JPG",
+            "alt": "3 SW records"
+          }
+        },
+        {
+          "type": "text",
+          "value": "I got the original Star Wars soundtrack on vinyl a few years ago, but for Christmas I received The Empire Strikes Back and Return of the Jedi, completing the original trilogy."
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "Star Wars"
+        },
+        {
+          "type": "text",
+          "value": "Something I like about records are the artist notes that come with it. In the original Star Wars record, there’s a sheet where John Williams explains some of what went into the different themes and songs. For example, the recognizable “Cantina Band” is the only song on the soundtrack that didn’t utilize the London Symphony Orchestra. George Lucas suggested Williams imagine “several creatures in a future century finding some 1930s Benny Goodman swing band music in a time capsule or under a rock someplace — and how they might attempt to interpret it”."
+        },
+        {
+          "type": "vid",
+          "value": {
+            "filename": "4_vid.mp4",
+            "alt": "“Binary Sunset”"
+          }
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "The Empire Strikes Back"
+        },
+        {
+          "type": "text",
+          "value": "I think the Empire Strikes Back has some of my favorite pieces. From the well-known “The Imperial March (Darth Vader’s Theme)” to the love theme between Han and Leia and the dramatic piece that underlines the duel between Luke and Vader."
+        },
+        {
+          "type": "vid",
+          "value": {
+            "filename": "5_vid.mp4",
+            "alt": "“The Imperial March (Darth Vader’s Theme)”"
+          }
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "Return of the Jedi"
+        },
+        {
+          "type": "text",
+          "value": "I always really liked “The Return of the Jedi” as a kid. The song plays during the dramatic rescue of Han Solo from Jabba the Hutt as Luke acrobats his way across the desert skiffs to the main barge."
+        },
+        {
+          "type": "vid",
+          "value": {
+            "filename": "6_vid.mp4",
+            "alt": "“The Return of the Jedi”"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "current-listens",
+      "headline": "What I’m Listening to...",
+      "image": "straycats.jpg",
+      "prev": "Some of the records I’ve recently put on my player",
+      "post": [
+        {
+          "type": "subhead",
+          "value": "Keane - Hopes and Fears"
+        },
+        {
+          "type": "text",
+          "value": "2004, 12” LP"
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "Stray Cats - Built for Speed"
+        },
+        {
+          "type": "text",
+          "value": "1982, 12” LP"
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "Q-Feel - Dancing In Heaven (Orbital Be-Bop)"
+        },
+        {
+          "type": "text",
+          "value": "1989, 7” single"
+        },
+        {
+          "type": "img",
+          "value": {
+            "filename": "qfeel.jpeg",
+            "alt": "“Dancing in Heaven (Orbital Be-Bop)”"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "favorites",
+      "headline": "Favorites",
+      "image": "cars.jpeg",
+      "prev": "All-time favorites of my collection",
+      "post": [
+        {
+          "type": "subhead",
+          "value": "The Cars - The Elektra Years"
+        },
+        {
+          "type": "text",
+          "value": "This box set consists of the six original albums by The Cars. I feel like if I could go back and see any band live, it would be The Cars (or maybe Queen, but The Cars is definitely up there)."
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "Hayley Kiyoko - Expectations"
+        },
+        {
+          "type": "text",
+          "value": "If you look closely, this one’s signed!"
+        },
+        {
+          "type": "text",
+          "value": "Also with a beautiful pearl-colored vinyl"
+        },
+        {
+          "type": "vid",
+          "value": {
+            "filename": "feelings.mp4",
+            "alt": "“Feelings”"
+          }
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "Coldplay - A Rush of Blood to the Head"
+        },
+        {
+          "type": "text",
+          "value": "I did like a lot of these songs when I was little, but it might be the fact that this was also the record on the player when I had my first kiss that puts it on the favorites list 😳."
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "Def Leppard - The Story So Far"
+        },
+        {
+          "type": "text",
+          "value": "This “best of” album came out a few months after I went to a Def Leppard/Journey concert with my mom in 2018. Plus, it includes a cover of Depeche Mode’s Personal Jesus on its own 7” single."
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "Melanie - Brand New Key"
+        },
+        {
+          "type": "text",
+          "value": "There’s just something so fun about this song!"
+        },
+        {
+          "type": "vid",
+          "value": {
+            "filename": "key.mp4",
+            "alt": "“Brand New Key”"
+          }
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "Various Artists - Golden Goodies"
+        },
+        {
+          "type": "text",
+          "value": "An album I “stole” from my grandparents. It’s a collection of hit songs from the late 1950s. Notable songs include The Platters’ “Smoke Gets In Your Eyes” and Dinah Washington’s “What A Diff'rence A Day Makes”."
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "John F. Kennedy - John F. Kennedy: The Presidential Years"
+        },
+        {
+          "type": "text",
+          "value": "Another album I “stole” from my grandparents. I’ve only listened to it once, but it’s one of those records you have just to say you do."
+        },
+        {
+          "type": "img",
+          "value": {
+            "filename": "jfk.png",
+            "alt": "John F. Kennedy: The Presidential Years"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "wishlist",
+      "headline": "Wishlist",
+      "image": "wishlist.png",
+      "prev": "Records I’m looking to get",
+      "post": [
+        {
+          "type": "subhead",
+          "value": "Bob Seger & The Silver Bullet Band - Old Time Rock & Roll"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "7” single"
+            },
+            {
+              "type": "text",
+              "value": "1978"
+            },
+            {
+              "type": "text",
+              "value": "<a href=\"https://www.discogs.com/sell/item/467671245\">discogs</a>"
+            }
+          ]
+        },
+        {
+          "type": "br",
+          "value": "br"
+        },
+        {
+          "type": "subhead",
+          "value": "Boney M. - ‎Rasputin"
+        },
+        {
+          "type": "list",
+          "value": [
+            {
+              "type": "text",
+              "value": "7” single"
+            },
+            {
+              "type": "text",
+              "value": "1978"
+            },
+            {
+              "type": "text",
+              "value": "<a href=\"https://www.discogs.com/sell/release/2172412\">discogs</a>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

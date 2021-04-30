@@ -1,0 +1,45 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Home{% endblock %}
+
+{% block page_description %}Home page{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>Welcome to my Digital Catalog</h1>
+  <p>Hi, I'm Blaine, and I'm a vinyl record enthusiast. My collection started in December 2015 when I got my record player and first few albums for Christmas. And it's only grown from there.</p>
+  <p>Feel free to click through the below pages. You can find a list of all the records I own or recommend me a new one at the top.</p>
+  <br>
+  <div class="row">
+    {% for page in blog.blogs %}
+      <div class="col-sm-6 col-md-4">
+        <div class="card mb-3">
+          <img src="../img/{{ page.image }}" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">{{ page.headline }}</h5>
+            <p class="card-text">{{ page.prev }}</p>
+            <a href="vinyl/{{ page.slug }}.html" class="btn btn-primary">Read more</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <br>
+  <br>
+  <h3>Some of My Favorite Record Stores</h3>
+  <br>
+  <div class="row">
+    {% for store in vinyls.Stores %}
+    <div class="col-sm-6">
+      <div class="card mb-3">
+        <div class="card-body">
+          <h5 class="card-title"><a href="{{store.website}}">{{store.name}}</a></h5>
+          <p class="card-text">{{store.location}}</p>
+          <p class="card-text">{{store.phone}}</p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

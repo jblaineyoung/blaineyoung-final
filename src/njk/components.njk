@@ -1,0 +1,77 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Components Check{% endblock %}
+
+{% block page_description %}components for grading{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>Components Check</h1>
+  <p>Making sure I have everything required... (verbage from the utdata repo)</p>
+  <form>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          An index, detail pages and additional content as outlined below.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          A base layout that is extended throughout the project.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          At least one new Nunjucks include that is used in another layout. (A good project will have several.) This is beyond the nav and footer already present.
+        </label>
+    </div>
+    <br>
+    <p>The project must use the following Bootstrap components and concepts:</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          Responsive design and images used throughout.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          A Jumbotron for a header.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          A Navbar/Navs that links to detail pages based on a loop from the data, in addition to any other pages you might have.
+        </label>
+    </div>
+    <br>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          You must add at least one scss partial with your Sass code. (A good project would have several.) Again, beyond the example already in the project.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          You must use at least one Google Font somewhere.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          Remove any unused files related to the example book and bookstore pages.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          This project should be in its own repo with the site published through Github Pages.
+        </label>
+    </div>
+  </form>
+</div>
+{% endblock %}

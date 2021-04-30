@@ -1,0 +1,702 @@
+{
+  "vinylCat": [
+    {
+      "artist": "Abba",
+      "album": "Arrival",
+      "type": "12\""
+    },
+    {
+      "artist": "Adele",
+      "album": 25,
+      "type": "12\""
+    },
+    {
+      "artist": "Aperture Science Psychoacoustics Laboratory",
+      "album": "Portal",
+      "type": "12\""
+    },
+    {
+      "artist": "Arcade Fire",
+      "album": "Everything Now",
+      "type": "12\""
+    },
+    {
+      "artist": "Asia",
+      "album": "Asia",
+      "type": "12\""
+    },
+    {
+      "artist": "Bastille",
+      "album": "Wild World",
+      "type": "12\""
+    },
+    {
+      "artist": "Beatles",
+      "album": "Revolver",
+      "type": "12\""
+    },
+    {
+      "artist": "Beatles",
+      "album": "Red Album",
+      "type": "12\""
+    },
+    {
+      "artist": "Beatles",
+      "album": "White Album",
+      "type": "12\""
+    },
+    {
+      "artist": "Beatles",
+      "album": "Abbey Road",
+      "type": "12\""
+    },
+    {
+      "artist": "Black Mirror",
+      "album": "San Junipero",
+      "type": "12\""
+    },
+    {
+      "artist": "Brook Benton",
+      "album": "Songs I Love to Sing",
+      "type": "12\""
+    },
+    {
+      "artist": "Brandon Flowers",
+      "album": "The Desired Effect",
+      "type": "12\""
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Beauty and the Beast",
+      "type": "12\""
+    },
+    {
+      "artist": "BØRNS",
+      "album": "Dopamine",
+      "type": "12\""
+    },
+    {
+      "artist": "BØRNS",
+      "album": "Blue Madonna",
+      "type": "12\""
+    },
+    {
+      "artist": "Cage the Elephant",
+      "album": "Melophobia",
+      "type": "12\""
+    },
+    {
+      "artist": "The Cars",
+      "album": "Greatest Hits",
+      "type": "12\""
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Parachutes",
+      "type": "12\""
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Rush of Blood to the Head",
+      "type": "12\""
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X & Y",
+      "type": "12\""
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "type": "12\""
+    },
+    {
+      "artist": "Def Leppard",
+      "album": "The Story So Far",
+      "type": "12\""
+    },
+    {
+      "artist": "Duran Duran",
+      "album": "Rio",
+      "type": "12\""
+    },
+    {
+      "artist": "Fall Out Boy",
+      "album": "Save Rock and Roll",
+      "type": "12\""
+    },
+    {
+      "artist": "Fall Out Boy",
+      "album": "MANIA",
+      "type": "12\""
+    },
+    {
+      "artist": "Maynard Ferguson",
+      "album": "Boy With Lots of Brass",
+      "type": "12\""
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Footloose",
+      "type": "12\""
+    },
+    {
+      "artist": "Foster the People",
+      "album": "Torches",
+      "type": "12\""
+    },
+    {
+      "artist": "Foxes",
+      "album": "Glorious",
+      "type": "12\""
+    },
+    {
+      "artist": "Peter Frampton",
+      "album": "Frampton Comes Alive!",
+      "type": "12\""
+    },
+    {
+      "artist": "Glass Animals",
+      "album": "Zaba",
+      "type": "12\""
+    },
+    {
+      "artist": "Glass Animals",
+      "album": "How to be a Human Being",
+      "type": "12\""
+    },
+    {
+      "artist": "Green Day",
+      "album": "American Idiot",
+      "type": "12\""
+    },
+    {
+      "artist": "Halsey",
+      "album": "Badlands",
+      "type": "12\""
+    },
+    {
+      "artist": "Alfred Hitchcock",
+      "album": "Psycho",
+      "type": "12\""
+    },
+    {
+      "artist": "idk how",
+      "album": 1981,
+      "type": "12\""
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Evolve",
+      "type": "12\""
+    },
+    {
+      "artist": "Jimmy Eat World",
+      "album": "Clarity",
+      "type": "12\""
+    },
+    {
+      "artist": "Journey",
+      "album": "Greatest Hits",
+      "type": "12\""
+    },
+    {
+      "artist": "Keane",
+      "album": "Hopes and Fears",
+      "type": "12\""
+    },
+    {
+      "artist": "John F. Kennedy",
+      "album": "John F. Kennedy: The Presidential Years",
+      "type": "12\""
+    },
+    {
+      "artist": "The Killers",
+      "album": "Wonderful Wonderful",
+      "type": "12\""
+    },
+    {
+      "artist": "King Princess",
+      "album": "Cheap Queen",
+      "type": "12\""
+    },
+    {
+      "artist": "Kinky Boots Cast",
+      "album": "Kinky Boots",
+      "type": "12\""
+    },
+    {
+      "artist": "Hayley Kiyoko",
+      "album": "Expectations",
+      "type": "12\""
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Little Shop of Horrors",
+      "type": "12\""
+    },
+    {
+      "artist": "Johnny Mathis",
+      "album": "Johnny’s Greatest Hits",
+      "type": "12\""
+    },
+    {
+      "artist": "Alice Merton",
+      "album": "No Roots",
+      "type": "12\""
+    },
+    {
+      "artist": "Alice Merton",
+      "album": "Mint",
+      "type": "12\""
+    },
+    {
+      "artist": "Jose Melis",
+      "album": "Jose Melis in Movieland",
+      "type": "12\""
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Moana",
+      "type": "12\""
+    },
+    {
+      "artist": "Janelle Monae",
+      "album": "Dirty Computer",
+      "type": "12\""
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Mulan",
+      "type": "12\""
+    },
+    {
+      "artist": "John Mulaney",
+      "album": "Kid Gorgeous",
+      "type": "12\""
+    },
+    {
+      "artist": "Muse",
+      "album": "The 2nd Law",
+      "type": "12\""
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "Three Cheers for Sweet Revenge",
+      "type": "12\""
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade",
+      "type": "12\""
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "Danger Days",
+      "type": "12\""
+    },
+    {
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade | Living With Ghosts",
+      "type": "12\""
+    },
+    {
+      "artist": "Psychedelic Furs",
+      "album": "Heartbreak Beat",
+      "type": "12\""
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Nacho Libre",
+      "type": "12\""
+    },
+    {
+      "artist": "Nate Ruess",
+      "album": "Grand Romantic",
+      "type": "12\""
+    },
+    {
+      "artist": "Panic! At the Disco",
+      "album": "A Fever You Can’t Sweat Out",
+      "type": "12\""
+    },
+    {
+      "artist": "Panic! At the Disco",
+      "album": "Pretty. Odd.",
+      "type": "12\""
+    },
+    {
+      "artist": "Panic! At the Disco",
+      "album": "Vices & Virtues",
+      "type": "12\""
+    },
+    {
+      "artist": "Panic! At the Disco",
+      "album": "Too Weird to Live, Too Rare to Die!",
+      "type": "12\""
+    },
+    {
+      "artist": "Panic! At the Disco",
+      "album": "Death of a Bachelor",
+      "type": "12\""
+    },
+    {
+      "artist": "Panic! At the Disco",
+      "album": "All My Friends Were Glorious",
+      "type": "12\""
+    },
+    {
+      "artist": "Panic! At the Disco",
+      "album": "Pray for the Wicked",
+      "type": "12\""
+    },
+    {
+      "artist": "Portugal the Man",
+      "album": "Woodstock",
+      "type": "12\""
+    },
+    {
+      "artist": "Queen",
+      "album": "Bohemian Rhapsody",
+      "type": "12\""
+    },
+    {
+      "artist": "Queen",
+      "album": "Jazz",
+      "type": "12\""
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Califonication",
+      "type": "12\""
+    },
+    {
+      "artist": "Stray Cats",
+      "album": "Built for Speed",
+      "type": "12\""
+    },
+    {
+      "artist": "Thompson Twins",
+      "album": "Into the Gap",
+      "type": "12\""
+    },
+    {
+      "artist": "Troye Sivan",
+      "album": "Bloom",
+      "type": "12\""
+    },
+    {
+      "artist": "U2",
+      "album": "The Unforgettable Fire",
+      "type": "12\""
+    },
+    {
+      "artist": "U2",
+      "album": "Joshua Tree",
+      "type": "12\""
+    },
+    {
+      "artist": "Valjean",
+      "album": "The Theme for Ben Casey",
+      "type": "12\""
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Golden Goodies",
+      "type": "12\""
+    },
+    {
+      "artist": "The Ventures",
+      "album": "Walk Don’t Run",
+      "type": "12\""
+    },
+    {
+      "artist": "Vince Guaraldi Trio",
+      "album": "A Charlie Brown Christmas",
+      "type": "12\""
+    },
+    {
+      "artist": "Wicked Cast",
+      "album": "Wicked",
+      "type": "12\""
+    },
+    {
+      "artist": "Rupert Gregson-Williams",
+      "album": "Wonder Woman",
+      "type": "12\""
+    },
+    {
+      "artist": "John Williams",
+      "album": "Star Wars",
+      "type": "12\""
+    },
+    {
+      "artist": "John Williams",
+      "album": "Star Wars: The Empire Strikes Back",
+      "type": "12\""
+    },
+    {
+      "artist": "John Williams",
+      "album": "Star Wars: Return of the Jedi",
+      "type": "12\""
+    },
+    {
+      "artist": "John Williams",
+      "album": "Star Wars: the Force Awakens",
+      "type": "12\""
+    },
+    {
+      "artist": "Ah-Ha",
+      "album": "Take on Me",
+      "type": "7\""
+    },
+    {
+      "artist": "Awolnation",
+      "album": "Run",
+      "type": "7\""
+    },
+    {
+      "artist": "The Beach Boys",
+      "album": "Barbara Ann",
+      "type": "7\""
+    },
+    {
+      "artist": "Beatles",
+      "album": "Hard Day’s Night",
+      "type": "7\""
+    },
+    {
+      "artist": "Beatles",
+      "album": "Yellow Submarine",
+      "type": "7\""
+    },
+    {
+      "artist": "Beatles",
+      "album": "Hello Goodbye",
+      "type": "7\""
+    },
+    {
+      "artist": "Beatles",
+      "album": "She Loves You",
+      "type": "7\""
+    },
+    {
+      "artist": "Beatles",
+      "album": "Love Me Do",
+      "type": "7\""
+    },
+    {
+      "artist": "Billy Squier",
+      "album": "The Stroke",
+      "type": "7\""
+    },
+    {
+      "artist": "Billy Squier",
+      "album": "Everybody Wants You",
+      "type": "7\""
+    },
+    {
+      "artist": "Blue Haze",
+      "album": "Smoke Gets In Your Eyes",
+      "type": "7\""
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Livin’ on a Prayer",
+      "type": "7\""
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "You Give Love a Bad Name",
+      "type": "7\""
+    },
+    {
+      "artist": "The Cars",
+      "album": "My Best Friend’s Girl",
+      "type": "7\""
+    },
+    {
+      "artist": "Dirty Dancing",
+      "album": "(I’ve Had) The Time of My Life",
+      "type": "7\""
+    },
+    {
+      "artist": "Duran Duran",
+      "album": "Hungry Like the Wolf",
+      "type": "7\""
+    },
+    {
+      "artist": "Fall Out Boy",
+      "album": "This Ain’t a Scene, It’s an Arms Race",
+      "type": "7\""
+    },
+    {
+      "artist": "Go-Go’s",
+      "album": "We Got the Beat",
+      "type": "7\""
+    },
+    {
+      "artist": "GOTG",
+      "album": "Guardians Inferno",
+      "type": "7\""
+    },
+    {
+      "artist": "INXS",
+      "album": "Need You Tonight",
+      "type": "7\""
+    },
+    {
+      "artist": "Micheal Jackson",
+      "album": "Smooth Criminal",
+      "type": "7\""
+    },
+    {
+      "artist": "Journey",
+      "album": "Open Arms",
+      "type": "7\""
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "album": "Girls Just Wanna Have Fun",
+      "type": "7\""
+    },
+    {
+      "artist": "John Lennon",
+      "album": "John Lennon Singles Bag",
+      "type": "7\""
+    },
+    {
+      "artist": "Madonna",
+      "album": "Material Girl",
+      "type": "7\""
+    },
+    {
+      "artist": "George Micheal",
+      "album": "One More Try",
+      "type": "7\""
+    },
+    {
+      "artist": "Melanie",
+      "album": "Brand New Key",
+      "type": "7\""
+    },
+    {
+      "artist": "Muse",
+      "album": "Reapers",
+      "type": "7\""
+    },
+    {
+      "artist": "Panic! At the Disco",
+      "album": "Death of a Bachelor",
+      "type": "7\""
+    },
+    {
+      "artist": "Octodad",
+      "album": "Nobody Suspects a Thing",
+      "type": "7\""
+    },
+    {
+      "artist": "Prince",
+      "album": "Little Red Corvette",
+      "type": "7\""
+    },
+    {
+      "artist": "Q-feel",
+      "album": "Dancing in Heaven",
+      "type": "7\""
+    },
+    {
+      "artist": "Royal Guardsmen",
+      "album": "Snoopy v the Red Barron",
+      "type": "7\""
+    },
+    {
+      "artist": "Survivor",
+      "album": "Eye of the Tiger",
+      "type": "7\""
+    },
+    {
+      "artist": "Thompson Twins",
+      "album": "Hold Me Now",
+      "type": "7\""
+    },
+    {
+      "artist": "U2",
+      "album": "Vertigo",
+      "type": "7\""
+    },
+    {
+      "artist": "Van Halen",
+      "album": "Dreams",
+      "type": "7\""
+    },
+    {
+      "artist": "WHAM!",
+      "album": "Careless Whisper",
+      "type": "7\""
+    },
+    {
+      "artist": "The Cars",
+      "album": "The Elektra Years",
+      "type": "Box Set"
+    },
+    {
+      "artist": "Prince",
+      "album": "Prince 4ever",
+      "type": "Box Set"
+    },
+    {
+      "artist": "John Williams",
+      "album": "John Williams • Steven Spielberg The Ultimate Collection",
+      "type": "Box Set"
+    }
+  ],
+  "Stores": [
+    {
+      "name": "Waterloo Records & Video",
+      "location": "600 N Lamar Blvd, Austin, TX 78703",
+      "website": "https://waterloorecords.com/",
+      "phone": "(512) 474-2500"
+    },
+    {
+      "name": "Disc Go Round",
+      "location": "4646 Everhart Rd B, Corpus Christi, TX 78411",
+      "website": "https://my-site-108510-100789.square.site/",
+      "phone": "(361) 452-0701"
+    },
+    {
+      "name": "Antone's Record Shop",
+      "location": "2928 Guadalupe Austin, TX 78705",
+      "website": "https://antonesrecordshop.com/",
+      "phone": "(512) 322-0660"
+    },
+    {
+      "name": "Hybrid Records",
+      "location": "4233 S Alameda St, Corpus Christi, TX 78412",
+      "website": "https://hybridrecordstx.com/",
+      "phone": "(361) 452-9044"
+    }
+  ],
+  "sources": [
+    {
+      "img": "straycats.jpg",
+      "img_link": "https://www.flickr.com/photos/djwudi/4231737969",
+      "img_from": "Michael Hanscom on flickr"
+    },
+    {
+      "img": "vinyl-banner.jpg",
+      "img_link": "https://commons.wikimedia.org/wiki/File:Vinyl_collection_at_a_record_store_(Unsplash).jpg",
+      "img_from": "Wikimedia Commons"
+    },
+    {
+      "img": "record.jpeg",
+      "img_link": "https://media.istockphoto.com/vectors/vinyl-record-template-vector-id481475560?k=6&m=481475560&s=612x612&w=0&h=6v5l7rebyR2T8zXxlssd9jBzVfE0Vaw2qDWID-IMdzI=",
+      "img_from": "iStock"
+    },
+    {
+      "img": "cart.png",
+      "img_link": "https://cdn.pixabay.com/photo/2013/07/12/17/01/shopping-cart-151685_1280.png",
+      "img_from": "Pixabay"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="en">
+  <!-- A Intro to Coding for Journalists class project -->
+  <head>
+    <title>BVC | Favorites</title>
+    <meta name="description" content="Favorites">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="../css/main.css">
+    
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="../index.html">Blaine's Vinyl Collection</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Pages
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          
+            <a class="dropdown-item" href="../vinyl/new-vinyl.html">New Finds</a>
+          
+            <a class="dropdown-item" href="../vinyl/current-listens.html">What I’m Listening to...</a>
+          
+            <a class="dropdown-item" href="../vinyl/favorites.html">Favorites</a>
+          
+            <a class="dropdown-item" href="../vinyl/wishlist.html">Wishlist</a>
+          
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../full-collection.html">Full Collection</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../recommend.html">Recommend an Album</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+    <div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Blaine's Vinyl Collection</h1>
+    <p class="lead">A space to record my records.</p>
+  </div>
+</div>
+
+    
+  <article class="container">
+    <div class="row">
+      <div class="col-sm-4">
+          <img src="../img/cars.jpeg" alt="" class="img-fluid mb-4">
+      </div>
+      <div class="col-sm-8">
+          <h1>Favorites</h1>
+          <p>
+
+  
+    
+<h4>The Cars - The Elektra Years</h4>
+
+  
+
+  
+    
+<p>This box set consists of the six original albums by The Cars. I feel like if I could go back and see any band live, it would be The Cars (or maybe Queen, but The Cars is definitely up there).</p>
+
+  
+
+  
+    
+<br>
+
+  
+
+  
+    
+<h4>Hayley Kiyoko - Expectations</h4>
+
+  
+
+  
+    
+<p>If you look closely, this one’s signed!</p>
+
+  
+
+  
+    
+<p>Also with a beautiful pearl-colored vinyl</p>
+
+  
+
+  
+    
+<div align="center" class="embed-responsive embed-responsive-16by9">
+  <video class="embed-responsive-item" controls>
+    <source src="../img/feelings.mp4" type="video/mp4">
+    Your browser does not support the video.
+  </video>
+</div>
+
+  
+
+  
+    
+<br>
+
+  
+
+  
+    
+<h4>Coldplay - A Rush of Blood to the Head</h4>
+
+  
+
+  
+    
+<p>I did like a lot of these songs when I was little, but it might be the fact that this was also the record on the player when I had my first kiss that puts it on the favorites list 😳.</p>
+
+  
+
+  
+    
+<br>
+
+  
+
+  
+    
+<h4>Def Leppard - The Story So Far</h4>
+
+  
+
+  
+    
+<p>This “best of” album came out a few months after I went to a Def Leppard/Journey concert with my mom in 2018. Plus, it includes a cover of Depeche Mode’s Personal Jesus on its own 7” single.</p>
+
+  
+
+  
+    
+<br>
+
+  
+
+  
+    
+<h4>Melanie - Brand New Key</h4>
+
+  
+
+  
+    
+<p>There’s just something so fun about this song!</p>
+
+  
+
+  
+    
+<div align="center" class="embed-responsive embed-responsive-16by9">
+  <video class="embed-responsive-item" controls>
+    <source src="../img/key.mp4" type="video/mp4">
+    Your browser does not support the video.
+  </video>
+</div>
+
+  
+
+  
+    
+<br>
+
+  
+
+  
+    
+<h4>Various Artists - Golden Goodies</h4>
+
+  
+
+  
+    
+<p>An album I “stole” from my grandparents. It’s a collection of hit songs from the late 1950s. Notable songs include The Platters’ “Smoke Gets In Your Eyes” and Dinah Washington’s “What A Diff'rence A Day Makes”.</p>
+
+  
+
+  
+    
+<br>
+
+  
+
+  
+    
+<h4>John F. Kennedy - John F. Kennedy: The Presidential Years</h4>
+
+  
+
+  
+    
+<p>Another album I “stole” from my grandparents. I’ve only listened to it once, but it’s one of those records you have just to say you do.</p>
+
+  
+
+  
+    
+<img src="../img/jfk.png" alt="John F. Kennedy: The Presidential Years" class="img-fluid">
+
+  
+
+</p>
+      </div>
+    </div>
+  </article>
+
+
+    <div class="container">
+  <p class="center-block text-center">
+  <button type="button" class="btn btn-light mt-5 mb-4" id="scrollToTopBtn">Scroll to Top</button>
+  </p>
+</div>
+
+<script>
+  var scrollToTopBtn = document.getElementById("scrollToTopBtn")
+  var rootElement = document.documentElement
+
+  function scrollToTop() {
+    // Scroll to top logic
+    rootElement.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    })
+  }
+  scrollToTopBtn.addEventListener("click", scrollToTop)
+</script>
+
+    <footer>
+<p id="legal" class="center-block text-center">
+  <small>&copy; <span class="copyright-year"></span>
+  A class project by Blaine Young | <a href="../sources.html">Sources</a>
+</p>
+</footer>
+
+
+    <script src="../js/jquery.js"></script>
+    <script src="../js/popper.js"></script>
+    <script src="../js/bootstrap.js"></script>
+    <script src="../js/scripts.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+  </body>
+</html>

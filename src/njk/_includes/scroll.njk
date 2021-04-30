@@ -1,0 +1,19 @@
+<div class="container">
+  <p class="center-block text-center">
+  <button type="button" class="btn btn-light mt-5 mb-4" id="scrollToTopBtn">Scroll to Top</button>
+  </p>
+</div>
+
+<script>
+  var scrollToTopBtn = document.getElementById("scrollToTopBtn")
+  var rootElement = document.documentElement
+
+  function scrollToTop() {
+    // Scroll to top logic
+    rootElement.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    })
+  }
+  scrollToTopBtn.addEventListener("click", scrollToTop)
+</script>
