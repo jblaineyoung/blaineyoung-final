@@ -4,6 +4,22 @@ By Blaine Young, Intro Coding for Journalists class
 
 This repo is the final project for icj. The final draft is due May 7, 2021.
 
+## About
+
+The project was simple: combine what we've been learning over the past semester, specifically in Bootstrap, to create a final website, either about the band Queen or Austin tourism. The professor already had assets, data, content - everything needed to build the site. All that was left was to build it.
+
+I decided that was too easy.
+
+I wanted something unique. I picked a different topic entirely, one that I'm particularly enthusiastic about: my vinyl record collection.
+
+I could have stopped at including all the necessary components of the project. I decided that was too easy, too.
+
+I believe I dove deeper into the components of this rig than anyone else probably has for this class. Not only did I write the content and take the photos and video for this project, but I figured out how to add extra components that weren't required, such as a table of my entire record collection, a "scroll to top" button, and a Google Form embed.
+
+I edited the processes of the rig. I created three new macros so that I could put images, videos and break lines into the ArchieML and have it render on the final page like I wanted it to.
+
+I poured my heart into this project, and I have to say I'm happy with the results.
+
 ## ICJ Project Rig
 
 This project rig was developed for the [Intro to Coding for Journalists](https://github.com/utdata/icj-class) class taught by Christian McDonald, Assistant Professor of Practice at the School of Journalism, Moody College of Communication, University of Texas at Austin.
