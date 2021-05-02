@@ -4,6 +4,8 @@ By Blaine Young, Intro Coding for Journalists class
 
 This repo is the final project for icj. The final draft is due May 7, 2021.
 
+View the project [HERE](https://jblaineyoung.github.io/blaineyoung-final/).
+
 ## About
 
 The project was simple: combine what we've been learning over the past semester, specifically in Bootstrap, to create a final website, either about the band Queen or Austin tourism. The professor already had assets, data, content - everything needed to build the site. All that was left was to build it.
