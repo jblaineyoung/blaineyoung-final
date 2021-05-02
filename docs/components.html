@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+  <!-- A Intro to Coding for Journalists class project -->
+  <head>
+    <title>BVC | Components Check</title>
+    <meta name="description" content="components for grading">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="css/main.css">
+    
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="index.html">Blaine's Vinyl Collection</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Pages
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          
+            <a class="dropdown-item" href="vinyl/new-vinyl.html">New Finds</a>
+          
+            <a class="dropdown-item" href="vinyl/current-listens.html">What I’m Listening to...</a>
+          
+            <a class="dropdown-item" href="vinyl/favorites.html">Favorites</a>
+          
+            <a class="dropdown-item" href="vinyl/wishlist.html">Wishlist</a>
+          
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="full-collection.html">Full Collection</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="recommend.html">Recommend an Album</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+    <div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Blaine's Vinyl Collection</h1>
+    <p class="lead">A place to record my records.</p>
+  </div>
+</div>
+
+    
+<div class="container">
+  <h1>Components Check</h1>
+  <p>Making sure I have everything required... (verbage from the utdata repo)</p>
+  <form>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          An index, detail pages and additional content as outlined below.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          A base layout that is extended throughout the project.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          At least one new Nunjucks include that is used in another layout. (A good project will have several.) This is beyond the nav and footer already present.
+        </label>
+    </div>
+    <br>
+    <p>The project must use the following Bootstrap components and concepts:</p>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          Responsive design and images used throughout.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          A Jumbotron for a header.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          A Navbar/Navs that links to detail pages based on a loop from the data, in addition to any other pages you might have.
+        </label>
+    </div>
+    <br>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          You must add at least one scss partial with your Sass code. (A good project would have several.) Again, beyond the example already in the project.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          You must use at least one Google Font somewhere.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          Remove any unused files related to the example book and bookstore pages.
+        </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+        <label class="form-check-label" for="defaultCheck1">
+          This project should be in its own repo with the site published through Github Pages.
+        </label>
+    </div>
+  </form>
+</div>
+
+
+    <div class="container">
+  <p class="center-block text-center">
+  <button type="button" class="btn btn-light mt-5 mb-4" id="scrollToTopBtn">Scroll to Top</button>
+  </p>
+</div>
+
+<script>
+  var scrollToTopBtn = document.getElementById("scrollToTopBtn")
+  var rootElement = document.documentElement
+
+  function scrollToTop() {
+    // Scroll to top logic
+    rootElement.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    })
+  }
+  scrollToTopBtn.addEventListener("click", scrollToTop)
+</script>
+
+    <footer>
+<p id="legal" class="center-block text-center">
+  <small>&copy; <span class="copyright-year"></span>
+  A class project by Blaine Young | <a href="sources.html">Sources</a>
+</p>
+</footer>
+
+
+    <script src="js/jquery.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/scripts.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+  </body>
+</html>
