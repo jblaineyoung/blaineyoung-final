@@ -30,7 +30,7 @@
 {% macro list(value) %}
 <ul>
   {% for item in value %}
-  <li>{{ item.value | safe }}</li>
+  <li class="list-notNav">{{ item.value | safe }}</li>
   {% endfor %}
 </ul>
 {% endmacro %}

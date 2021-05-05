@@ -1,33 +1,63 @@
 // Custom variable overrides
-// See node_modules/bootstrap/scss/_variables.scss
-
-// $body-bg: black;
-// $body-color: white;
-// $link-hover-color: grey;
-// $font-family-sans-serif: "Helvetica Neue";
+$retro-orange: #dd802c;
+$retro-ltOrange: #e8b877;
+$retro-blue: #669fb2;
+$retro-gray: #dadfe1;
+$retro-brown: #3e2a20;
 
 /* bootstrap */
-// Option A: Include all of Bootstrap
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
-// Option B: Include parts of Bootstrap
-// See https://getbootstrap.com/docs/4.1/getting-started/theming/#importing
-
-// Required
-// @import "../../node_modules/bootstrap/scss/functions";
-// @import "../../node_modules/bootstrap/scss/variables";
-// @import "../../node_modules/bootstrap/scss/mixins"; 
-
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Quattrocento&display=swap');
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Cream+Soda&family=Roboto&display=swap');
 
 // Import partials
 @import "nav";
 @import "jumbotron";
+@import "cards";
 
 h3 {
   font-size: 1.5rem;
 }
 
-p, h2, h3, h4, h5, h6, li {
-  font-family: 'Quattrocento', serif;
+p, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.list-notNav {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: 'Cherry Cream Soda', sans-serif;
+  color: $retro-blue;
+  font-weight: bold;
+}
+
+.btn {
+  background-color: $retro-blue;
+  border-color: $retro-blue;
+}
+
+.btn:hover {
+  background-color: #5a8c9c;
+  border-color: #5a8c9c;
+}
+
+.btn:active {
+  background-color: #5a8c9c;
+  border-color: #5a8c9c;
+}
+
+.btn-txt {
+  margin-bottom: 0px;
+  color: #fff;
+}
+
+a {
+  color: $retro-blue;
+}
+
+a:hover {
+  text-decoration: none;
 }

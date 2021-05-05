@@ -8,12 +8,22 @@
 // }
 
 .jumbotron {
-  background-image: url(../img/vinyl-banner.jpg);
+  background-image: url(../img/vinyl-banner.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-size: 100%;
   margin-bottom: 30px;
-  font-weight: bold;
-  color: white;
-  font-family: 'Oswald', sans-serif;
+  color: #fff;
+  height: 300px;
+}
+
+.display-4 {
+  font-family: 'Cherry Cream Soda', sans-serif;
+  font-weight: 500;
+  color: #fff;
+}
+
+.lead {
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
 }

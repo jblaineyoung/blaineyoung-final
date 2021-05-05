@@ -2,8 +2,39 @@
 
 .navbar {
   margin-bottom: 0px;
+  background-color: $retro-brown;
 }
 
 .navbar-brand {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Cherry Cream Soda', sans-serif;
+  color: $retro-orange !important;
+  font-weight: bold !important;
+}
+
+.nav-link {
+  font-family: 'Cherry Cream Soda', sans-serif;
+  color: $retro-orange !important;
+  font-weight: normal !important;
+}
+
+a:hover {
+  color: $retro-ltOrange !important;
+}
+
+.dropdown-item{
+  font-family: 'Cherry Cream Soda', sans-serif !important;
+}
+
+.dropdown-menu{
+  background-color: $retro-brown !important;
+  z-index: 99 !important;
+}
+
+.dropdown-item {
+  color: $retro-orange !important;
+}
+
+.dropdown-item:hover {
+  background-color: $retro-brown !important;
+  color: $retro-ltOrange !important;
 }
