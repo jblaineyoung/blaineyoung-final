@@ -9,17 +9,13 @@
         {
           "type": "img",
           "value": {
-            "filename": "all.JPG",
+            "filename": "../img/all.JPG",
             "alt": "3 SW records"
           }
         },
         {
           "type": "text",
           "value": "I got the original Star Wars soundtrack on vinyl a few years ago, but for Christmas I received The Empire Strikes Back and Return of the Jedi, completing the original trilogy."
-        },
-        {
-          "type": "br",
-          "value": "br"
         },
         {
           "type": "subhead",
@@ -32,13 +28,9 @@
         {
           "type": "vid",
           "value": {
-            "filename": "4_vid.mp4",
+            "filename": "../img/4_vid.mp4",
             "alt": "“Binary Sunset”"
           }
-        },
-        {
-          "type": "br",
-          "value": "br"
         },
         {
           "type": "subhead",
@@ -51,13 +43,9 @@
         {
           "type": "vid",
           "value": {
-            "filename": "5_vid.mp4",
+            "filename": "../img/5_vid.mp4",
             "alt": "“The Imperial March (Darth Vader’s Theme)”"
           }
-        },
-        {
-          "type": "br",
-          "value": "br"
         },
         {
           "type": "subhead",
@@ -70,7 +58,7 @@
         {
           "type": "vid",
           "value": {
-            "filename": "6_vid.mp4",
+            "filename": "../img/6_vid.mp4",
             "alt": "“The Return of the Jedi”"
           }
         }
@@ -91,20 +79,12 @@
           "value": "2004, 12” LP"
         },
         {
-          "type": "br",
-          "value": "br"
-        },
-        {
           "type": "subhead",
           "value": "Stray Cats - Built for Speed"
         },
         {
           "type": "text",
           "value": "1982, 12” LP"
-        },
-        {
-          "type": "br",
-          "value": "br"
         },
         {
           "type": "subhead",
@@ -117,7 +97,7 @@
         {
           "type": "img",
           "value": {
-            "filename": "qfeel.jpeg",
+            "filename": "../img/qfeel.jpeg",
             "alt": "“Dancing in Heaven (Orbital Be-Bop)”"
           }
         }
@@ -138,10 +118,6 @@
           "value": "This box set consists of the six original albums by The Cars. I feel like if I could go back and see any band live, it would be The Cars (or maybe Queen, but The Cars is definitely up there)."
         },
         {
-          "type": "br",
-          "value": "br"
-        },
-        {
           "type": "subhead",
           "value": "Hayley Kiyoko - Expectations"
         },
@@ -156,13 +132,9 @@
         {
           "type": "vid",
           "value": {
-            "filename": "feelings.mp4",
+            "filename": "../img/feelings.mp4",
             "alt": "“Feelings”"
           }
-        },
-        {
-          "type": "br",
-          "value": "br"
         },
         {
           "type": "subhead",
@@ -173,20 +145,12 @@
           "value": "I did like a lot of these songs when I was little, but it might be the fact that this was also the record on the player when I had my first kiss that puts it on the favorites list 😳."
         },
         {
-          "type": "br",
-          "value": "br"
-        },
-        {
           "type": "subhead",
           "value": "Def Leppard - The Story So Far"
         },
         {
           "type": "text",
           "value": "This “best of” album came out a few months after I went to a Def Leppard/Journey concert with my mom in 2018. Plus, it includes a cover of Depeche Mode’s Personal Jesus on its own 7” single."
-        },
-        {
-          "type": "br",
-          "value": "br"
         },
         {
           "type": "subhead",
@@ -199,13 +163,9 @@
         {
           "type": "vid",
           "value": {
-            "filename": "key.mp4",
+            "filename": "../img/key.mp4",
             "alt": "“Brand New Key”"
           }
-        },
-        {
-          "type": "br",
-          "value": "br"
         },
         {
           "type": "subhead",
@@ -214,10 +174,6 @@
         {
           "type": "text",
           "value": "An album I “stole” from my grandparents. It’s a collection of hit songs from the late 1950s. Notable songs include The Platters’ “Smoke Gets In Your Eyes” and Dinah Washington’s “What A Diff'rence A Day Makes”."
-        },
-        {
-          "type": "br",
-          "value": "br"
         },
         {
           "type": "subhead",
@@ -230,7 +186,7 @@
         {
           "type": "img",
           "value": {
-            "filename": "jfk.png",
+            "filename": "../img/jfk.png",
             "alt": "John F. Kennedy: The Presidential Years"
           }
         }
@@ -262,10 +218,6 @@
               "value": "<a href=\"https://www.discogs.com/sell/item/467671245\">discogs</a>"
             }
           ]
-        },
-        {
-          "type": "br",
-          "value": "br"
         },
         {
           "type": "subhead",

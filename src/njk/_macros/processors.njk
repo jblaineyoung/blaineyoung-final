@@ -10,18 +10,14 @@
 <h4>{{ value | safe }}</h4>
 {% endmacro %}
 
-{% macro br(value) %}
-<{{ value }}>
-{% endmacro %}
-
 {% macro img(value) %}
-<img src="../img/{{ value.filename }}" alt="{{ value.alt }}" class="img-fluid">
+<img src="{{ value.filename }}" alt="{{ value.alt }}" class="img-fluid">
 {% endmacro %}
 
 {% macro vid(value) %}
 <div align="center" class="embed-responsive embed-responsive-16by9">
   <video class="embed-responsive-item" controls>
-    <source src="../img/{{ value.filename }}" type="video/mp4">
+    <source src="{{ value.filename }}" type="video/mp4">
     Your browser does not support the video.
   </video>
 </div>
